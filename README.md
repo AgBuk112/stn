@@ -1,4 +1,5 @@
-# stn
+stn install
+
 
 [![GitHub Release](https://img.shields.io/github/v/release/d1onys1us/stn?logo=github)](https://github.com/d1onys1us/stn/releases)
 [![Crates.io Version](https://img.shields.io/crates/v/stn?logo=rust)](https://crates.io/crates/stn)
